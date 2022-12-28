@@ -2,4 +2,4 @@ spring:
   cloud:
     config:
       uri:
-        - http://localhost:9196
+        - https://cloud-config-git-kushalbajji-dev.apps.sandbox.x8i5.p1.openshiftapps.com
